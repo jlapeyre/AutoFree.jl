@@ -1,6 +1,6 @@
-using AutoFree
+using AutoFrees
 using Test
 
-@testset "AutoFree.jl" begin
+@testset "AutoFrees.jl" begin
     # Write your tests here.
 end
